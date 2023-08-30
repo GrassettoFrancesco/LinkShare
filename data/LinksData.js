@@ -106,7 +106,7 @@ const webLinks = [
         icon: '/opensea.svg',
         on: false
     },
-    // Install section
+    // SOCIAL section
     {
         title: 'Ultimo video!',
         url: 'https://www.youtube.com/watch?v=wVhXBFozra4',
