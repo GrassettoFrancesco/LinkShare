@@ -2,24 +2,24 @@
 const webLinks = [
     // All social profile
     {
-        title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        title: 'Youtube',
+        url: 'https://youtube.com/@grassettofrancesco',
         type: 'social',
-        icon: '/twitter.svg',
+        icon: '/youtube.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/francesco.creator',
         type: 'social',
         icon: '/insta.svg',
         on: true
     },
     {
-        title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
+        title: 'LinkedIn',
+        url: 'https://www.linkedin.com/in/francescograssetto/',
         type: 'social',
-        icon: '/dribbble.svg',
+        icon: '/linkedin.svg',
         on: false
     },
     {
