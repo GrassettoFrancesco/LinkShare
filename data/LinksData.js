@@ -31,7 +31,7 @@ const webLinks = [
     },
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/GrassettoFrancesco',
         type: 'social',
         icon: '/github.svg',
         on: true
@@ -48,7 +48,7 @@ const webLinks = [
         url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
-        on: true
+        on: false
     },
     {
         title: 'Behance',
@@ -69,7 +69,7 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
