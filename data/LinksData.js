@@ -140,7 +140,7 @@ const webLinks = [
         title: 'Ravenna Computer',
         url: 'https://www.ravennacomputer.com/',
         type: 'other',
-        icon: '/bmc.png',
+        icon: '/ravennacomputer.png',
         on: true
     },
 
