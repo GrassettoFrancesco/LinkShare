@@ -23,11 +23,11 @@ const webLinks = [
         on: true
     },
     {
-        title: 'Medium',
-        url: 'https://medium.com/@realvjy',
+        title: 'TikTok',
+        url: 'https://www.tiktok.com/@grassseh6gu',
         type: 'social',
-        icon: '/medium.svg',
-        on: false
+        icon: '/tiktok.svg',
+        on: true
     },
     {
         title: 'Github',
@@ -108,8 +108,8 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Use this template',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
+        title: 'Scrivimi',
+        url: 'mailto:grassettofrancesco@engineer.com',
         type: 'install',
         icon: '/use.png',
         on: true
