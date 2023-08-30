@@ -118,7 +118,7 @@ const webLinks = [
         title: 'Scrivimi!',
         url: 'mailto:grassettofrancesco@engineer.com',
         type: 'install',
-        icon: '/mail.png',
+        icon: '/email-svgrepo-com.svg',
         on: true
     },
     {
