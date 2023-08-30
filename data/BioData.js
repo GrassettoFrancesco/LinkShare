@@ -13,9 +13,9 @@ const bioData = [
         subdescShow: true,
         newProductUrl: 'https://fotouniverso.it/',
         newProduct: true,
-        author: 'cesco',
+        author: 'Francesco',
         authorURL: 'https://youtube.com/@grassettofrancesco',
-        footerText: 'made by'
+        footerText: 'made with ♥ by'
     },
 ];
 
