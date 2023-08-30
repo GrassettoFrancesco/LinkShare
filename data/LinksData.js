@@ -108,17 +108,17 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Scrivimi',
-        url: 'mailto:grassettofrancesco@engineer.com',
+        title: 'Ultimo video!',
+        url: 'https://www.youtube.com/watch?v=wVhXBFozra4',
         type: 'install',
-        icon: '/use.png',
+        icon: '/youtube.svg',
         on: true
     },
     {
-        title: 'Deploy on Vercel',
-        url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
+        title: 'Scrivimi!',
+        url: 'mailto:grassettofrancesco@engineer.com',
         type: 'install',
-        icon: '/vercel.svg',
+        icon: '/mail.png',
         on: true
     },
     {
