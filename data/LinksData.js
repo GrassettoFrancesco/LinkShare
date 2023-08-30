@@ -20,7 +20,7 @@ const webLinks = [
         url: 'https://www.linkedin.com/in/francescograssetto/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: false
+        on: true
     },
     {
         title: 'Medium',
