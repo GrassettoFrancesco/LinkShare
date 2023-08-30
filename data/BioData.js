@@ -11,7 +11,7 @@ const bioData = [
         descShow: true,
         subdesc: 'Italy',
         subdescShow: true,
-        newProductUrl: 'https://3dicons.co',
+        newProductUrl: 'https://fotouniverso.it/',
         newProduct: true,
         author: 'cesco',
         authorURL: 'https://youtube.com/@grassettofrancesco',
