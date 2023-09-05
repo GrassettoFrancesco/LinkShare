@@ -109,7 +109,7 @@ const webLinks = [
     // SOCIAL section
     {
         title: 'Ultimo video!',
-        url: 'https://www.youtube.com/watch?v=wVhXBFozra4',
+        url: 'https://youtu.be/IBmoTNtDwN8?si=q8CChFlSBR0LqRTK',
         type: 'install',
         icon: '/youtube.svg',
         on: true
